@@ -5,3 +5,4 @@ Git is really funny.
 Git is a distribution.
 Git tracks changes of files.
 Git's branch create a new branch is quick.
+Git's branch stratery.
